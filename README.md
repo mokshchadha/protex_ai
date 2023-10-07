@@ -3,7 +3,7 @@
 Preview :-
 <img src="https://i.ibb.co/XVnVFbN/Screenshot-2023-10-07-at-2-40-46-PM.png"  alt="Project preview image"/>
 
-Live Demo :-
+<a href="https://protex-ai-assignment.netlify.app/">Go To Assignment Live Demo</a>
 
 ## Project setup
 
