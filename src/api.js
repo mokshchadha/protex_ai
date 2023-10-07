@@ -3,7 +3,7 @@ const SERVER_URL = //FIXME: this is temporary hack for deployment over netlify t
   window.location.href.includes("localhost") ||
   window.location.href.includes("127.0.0.1")
     ? "http://localhost:3000"
-    : "https://filebin.net/gvj1652d71hktah7";
+    : "https://raw.githubusercontent.com/mokshchadha/protex_ai/main/server";
 
 console.log({ SERVER_URL });
 
