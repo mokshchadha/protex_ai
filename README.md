@@ -1,5 +1,8 @@
 # protex_ai interview assignment
 
+Preview :-
+<img src="https://i.ibb.co/XVnVFbN/Screenshot-2023-10-07-at-2-40-46-PM.png"  alt="Project preview image"/>
+
 Live Demo :-
 
 ## Project setup
