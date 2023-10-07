@@ -1,5 +1,9 @@
 import axios from "axios";
-const SERVER_URL = process.env.SERVER_URL || "http://localhost:3000";
+const SERVER_URL = //FIXME: this is temporary hack for deployment over netlify this can be tackeled with env variables
+  window.location.href.includes("localhost") ||
+  window.location.href.includes("127.0.0.1")
+    ? "http://localhost:3000"
+    : "https://filebin.net/gvj1652d71hktah7";
 
 console.log({ SERVER_URL });
 
